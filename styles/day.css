@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+    background-color: rgb(225, 225, 225);
+}
+
+#container img{
+width: 500px;
+height: 500px;
+}
+
+#container>div:last-child{
+   padding: 30px;
+   line-height: 24px;
+}

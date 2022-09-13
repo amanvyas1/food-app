@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar{
+    display:flex;
+    background-color: black;
+    padding: 20px 30px;
+    justify-content: space-between;
+}
+#navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+#navbar a:hover{
+    color: gray;
+}
+
+#navbar>div{
+    display: flex;
+    gap: 20px;
+}
