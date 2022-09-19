@@ -4,6 +4,11 @@ An app where users can search any food recipe, get a random recipe or get a desc
 ## Live
 https://frolicking-jalebi-4b540f.netlify.app/
 
+## Features
+- Login 
+- signup
+- search recipe
+
 ## Tech Stack
 - HTML
 - CSS
